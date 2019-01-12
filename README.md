@@ -1,7 +1,5 @@
 # SizeShop
 
-Size Shop
-
 /크기상점
 
 커질때 100만원
