@@ -1,0 +1,19 @@
+﻿name: SizeShop
+author: tream
+main: tream\SizeShop
+api:
+- 2.0.0
+- 3.0.0
+- 3.0.0-ALPHA10
+- 3.0.0-ALPHA11
+version: 1
+
+
+commands:
+  크기상점:
+    permission: SizeShop.command
+    description: §r§l§b[ §f성능 좋은 크기상점 §b]
+
+permissions:
+          SizeShop.command:
+            default: true
